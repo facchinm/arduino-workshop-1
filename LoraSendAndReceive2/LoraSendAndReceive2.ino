@@ -12,6 +12,7 @@ String appKey = "61149F0FD6B727697FD2755186AF6810";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
+   Serial.println("testtest Sharon");
   while (!Serial);
   if (!modem.begin()) {
     Serial.println("Failed to start module");
