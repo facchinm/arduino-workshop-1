@@ -1,0 +1,3 @@
+[submodule "ESP32BleAdvertise"]
+	path = ESP32BleAdvertise
+	url = git@github.com:lucascoelhof/ESP32BleAdvertise.git
